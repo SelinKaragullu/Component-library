@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Badge from "../components/Menu/Badge"
-import Banner from "../components/Menu/Banner"
+import Badge from "./components/Menu/Badge"
+import Banner from "./components/Menu/Banner"
 import Testimonial from "./components/Testimonial/index"
 import Card from "./components/Card/Card"
 
