@@ -9,4 +9,5 @@ HTML, CSS, JavaScript & React used
 <h2> Gif </h2>
 
 
-![Meme generator](https://github.com/user-attachments/assets/6cb2ee89-8268-43e2-9fa2-89c75a424cab)
+![Component library](https://github.com/user-attachments/assets/85d7b2b9-1a16-4824-a0af-0796d30b128f)
+
